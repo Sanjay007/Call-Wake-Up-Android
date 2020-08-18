@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851769832879",
+    "firebase_url": "https://wakeapp-90929.firebaseio.com",
+    "project_id": "wakeapp-90929",
+    "storage_bucket": "wakeapp-90929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851769832879:android:6b770bf49aaff74c622b5a",
+        "android_client_info": {
+          "package_name": "com.frugalis.wakeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851769832879-282t9qadg5l9qk3s8nsjguk1g5nv212m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frugalis.wakeup",
+            "certificate_hash": "4721aff9e0b86d3399e426fddd09b77bb6930bdd"
+          }
+        },
+        {
+          "client_id": "851769832879-bvhhvftp62qsqocnfe7fkamp0ba5r2cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1uyVb9qFfKqTZ2As4ISTwwkYYbOm4UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851769832879-bvhhvftp62qsqocnfe7fkamp0ba5r2cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
